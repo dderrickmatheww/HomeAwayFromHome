@@ -23,6 +23,7 @@ body{
   color: gold;
   font-family: 'IBM Plex Serif', serif;
   border-bottom: gold 1px solid;
+  padding-bottom: 3%;
 }
 h3{
 -webkit-text-stroke: .5px black; 
