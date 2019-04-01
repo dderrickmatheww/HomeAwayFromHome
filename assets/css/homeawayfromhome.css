@@ -1,0 +1,70 @@
+body{
+    background-image: url("../images/Daycare-Website-Background-Light.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+}
+.header {
+ color: gold;
+ -webkit-text-stroke: .5px black;
+ border-bottom: gold 2px double;
+ font-family: 'IBM Plex Serif', serif;
+}
+.home{
+     color: burlywood;
+    font-style: italic;
+    font-size: 150%;
+    -webkit-text-stroke: .5px black;
+}
+.text-head {
+  -webkit-text-stroke: .7px black;
+  opacity: 1;
+  font-size: 30px;
+  color: gold;
+  font-family: 'IBM Plex Serif', serif;
+  border-bottom: gold 1px solid;
+}
+h3{
+-webkit-text-stroke: .5px black; 
+}
+img {
+  height: 600px;
+  width: 150px;
+  border: gold 1px solid;
+}
+.navbar {
+  font-family: Arial, Helvetica, sans-serif;
+  border: gold 5px double;
+  border-top: none;
+  text-align: center !important;
+  font-family: 'IBM Plex Serif', serif;
+}
+.navbar a:hover {
+  color: gold !important;
+  border-bottom: 1px gold double;
+}
+.GoldBold{
+  background-color: darkseagreen;
+  opacity: 0.6;
+  background-blend-mode: multiply;
+  -webkit-text-stroke: .5px black;
+  margin-bottom: 5%;
+  border: gold 1px solid;
+
+}
+.text-body {
+  opacity: 1;
+  font-size: 22px;
+  color: grey;
+  font-family: 'IBM Plex Serif', serif;
+  -webkit-text-stroke: .5px black;
+}
+.footer {
+  background-color: white;
+  border-top: gold 5px double;
+  font-family: 'IBM Plex Serif', serif;
+}
+@media screen and (max-width: 640px) {
+
+
+}
