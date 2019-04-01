@@ -65,9 +65,12 @@ img {
   border-top: gold 5px double;
   font-family: 'IBM Plex Serif', serif;
 }
-@media screen and (max-width: 640px) {
-
-  .navbar-brand {
-    font-size: 20px;
+#hafh {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .hafh {
+    display: none;
   }
+ #hafh { display: inline-block; }
 }
